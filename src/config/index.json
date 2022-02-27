@@ -1,0 +1,47 @@
+{
+  "company": {
+    "name": "React landing page 2021",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "How It Works",
+      "href": "product"
+    }
+  ],
+  "mainHero": {
+    "title": "Introducing Bidizo",
+    "subtitle": "For Creators",
+    "description": "Bidizo helps you bridge the gap between you and your audience. Create the content you want to make and get paid! Sign up for our wait list now and be the first to use Bidizo.",
+    "img": "/assets/images/cover.png",
+    "primaryAction": {
+      "text": "Join the Waitlist",
+      "href": "https://docs.google.com/forms/d/16P9Uawpz6q2jniBwa2MDyz7lZwVdVrCHVFPL08Oe0tQ/prefill"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:fred@bidizo.dev?subject=Bidizo"
+    }
+  },
+  "product": {
+    "title": "How Does Bidizo Work?",
+    "items": [
+      {
+        "title": "Generate extra revenue from your content.",
+        "description": "Bidizo works for any platform, any medium, and any content. Simply list the upcoming content you are planning to make in the creator portal. Your audience votes on what content they want you to make with their wallet!",
+        "img": "/assets/images/social.png"
+      },
+      {
+        "title": "Get Paid!",
+        "description": "When you decide to cash out a piece of content, simply upload a public link to the creator portal. You get paid out and your audience gets the content they wanted! Everyone wins!",
+        "img": "/assets/images/earn.png"
+      }
+    ]
+  },
+  "about": {
+    "socialMedia": {
+      "twitter": "https://twitter.com/bidizo_co",
+      "linkedin": "https://www.linkedin.com/company/bidizo/"
+    }
+  }
+}
